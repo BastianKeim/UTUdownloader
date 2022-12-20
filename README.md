@@ -17,4 +17,4 @@ Make sure of having python 3.0 or above, put the file in the folde where you wan
 
 • Python 🐍
 
-• Pytube 📸 (Installation requeried) 
+• Pytube 📽 (Installation requeried) 
